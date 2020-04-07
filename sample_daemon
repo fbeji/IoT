@@ -3,7 +3,7 @@
 	gcc sample_daemon.c -o sampled
 
 Author: Chris Lamb
-Edits: Francisco Viramontes
+Edits: Faycel Beji
 
 Description: Simulates a simple daemon process that handles the SIGHUP and
 	SIGTERM signals.
